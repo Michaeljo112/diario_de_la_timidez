@@ -483,7 +483,7 @@ function Order() {
               <div><dt>Pago</dt><dd>Tarjeta · PayPal · Opcional</dd></div>
               <div><dt>Tiempo</dt><dd>&lt; 1 minuto</dd></div>
             </dl>
-            <a className="btn order-btn" href="#" target="_blank" rel="noreferrer">
+            <a className="btn order-btn" href="https://michaeljo.gumroad.com/l/diariodelatimidez" target="_blank" rel="noreferrer">
               Abrir en Gumroad <span className="arrow">↗</span>
             </a>
           </div>
